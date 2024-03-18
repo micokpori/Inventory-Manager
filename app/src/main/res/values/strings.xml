@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Inventory Manager</string>
+    <string name="exit">Exit</string>
+    <string name="no">No</string>
+    <string name="exit_app_content">Do you want to exit this application?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete_title">Delete item?</string>
+    <string name="permanent_delete_content">This item will be permanently deleted from your device</string>
+    <string name="sort_by">Sort by</string>
+    <string name="search_inventory">Search inventory</string>
+    <string name="app_theme">App theme</string>
+    <string name="dynamic_theme">Dynamic theme</string>
+    <string name="telegram">Telegram</string>
+    <string name="contact_us">Contact us</string>
+    <string name="telegram_contact_url">https://t.me/Burning_Heaven</string>
+    <string name="whatsapp">WhatsApp</string>
+    <string name="whatsapp_contact_url">https://wa.me/+2349039723711</string>
+    <string name="add_item">Add item</string>
+</resources>

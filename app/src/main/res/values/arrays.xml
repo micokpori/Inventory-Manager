@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sort_options">
+        <item>Title ↓</item>
+        <item>Title ↑</item>
+        <item>Stock ↓</item>
+        <item>Stock ↑</item>
+        <item>Price ↓</item>
+        <item>Price ↑</item>
+        <item>Last Modified</item>
+        <item>Date Added</item>
+        <item>Expiry Date</item>
+    </string-array>
+
+    <string-array name="theme_options">
+        <item>Light theme</item>
+        <item>Dark theme</item>
+        <item>System default</item>
+    </string-array>
+</resources>

@@ -30,6 +30,7 @@ _Inventory Manager_ focuses on the following key things:
 
 - Backup / Restore functionality
 - Login / Sign Up flow
+- Add pictures for each inventory items
 - Revenue monitoring
 - Clean UI/UX
 - Offline
